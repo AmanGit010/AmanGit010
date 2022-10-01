@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Open-source contributions, Mobile App Development
 - 🌱 I’m currently learning ... DSA, Java.
 - 💞️ I’m looking to collaborate on ... Open-Source projects
-- 📫 How to reach me ... twitter - @amanstwt
+- 📫 How to reach me ... twitter - @amans_twt
 
 <!---
 AmanGit010/AmanGit010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
