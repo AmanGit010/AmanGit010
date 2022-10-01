@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amanjot Singh
-- 👀 I’m interested in ... Open-source contributions, Application Development
-- 🌱 I’m currently learning ... DSA, Kotlin.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... twitter - @amantwt329
+- 👀 I’m interested in ... Open-source contributions, Mobile App Development
+- 🌱 I’m currently learning ... DSA, Java.
+- 💞️ I’m looking to collaborate on ... Open-Source projects
+- 📫 How to reach me ... twitter - @amanstwt
 
 <!---
 AmanGit010/AmanGit010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
