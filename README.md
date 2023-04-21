@@ -45,6 +45,6 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanGit010&show_icons=true&theme=dracula) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanGit010)](https://git.io/streak-stats) -->
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amanGit010&theme=dracula)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amanGit010&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanGit010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
