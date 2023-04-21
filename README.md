@@ -39,7 +39,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <!-- ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangit010) -->
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pratikbaid3&count_private=true&show_icons=true&include_all_commits=true)<br/>
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amanGit010&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanGit010)](https://git.io/streak-stats)
