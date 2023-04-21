@@ -39,7 +39,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username={https://github.com/amanGit010}&theme={xcode})
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=amanGit010&theme={xcode})
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanGit010&show_icons=true&theme=dracula)
 
