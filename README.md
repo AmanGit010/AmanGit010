@@ -9,7 +9,7 @@
 [<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/amanLeet01/)
 
 
-###### Languages
+#### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 
-###### Frameworks and Stack
+#### Frameworks and Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
@@ -30,7 +30,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 
-###### Tools
+#### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
