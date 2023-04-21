@@ -1,3 +1,5 @@
+<h1 align="center">Hey, I'm Amanjot Singh <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">App Developer </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanGit010" alt="amanGit010" /> </p> 
 
 #### Connect with me on - 
