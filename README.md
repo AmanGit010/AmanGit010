@@ -3,7 +3,7 @@
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanjot-singh-7b09b6220/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://twitter.com/amans_twt)
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:amanjot3290@gmail.com)
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=black">](mailto:amanjot3290@gmail.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanGit010&show_icons=true&theme=dracula)
