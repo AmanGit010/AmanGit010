@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Amanjot Singh
-- 👀 I’m interested in ... Open-source contributions, Mobile App Development
-- 🌱 I’m currently learning ... DSA, Java.
-- 💞️ I’m looking to collaborate on ... Open-Source projects
-- 📫 How to reach me ... twitter - @amans_twt
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanGit010" alt="amanGit010" /> </p> 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### Connect with me on - 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanjot-singh-7b09b6220/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://twitter.com/amans_twt)
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:amanjot3290@gmail.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanGit010&show_icons=true&theme=dracula)
