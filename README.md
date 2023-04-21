@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanGit010" alt="amanGit010" /> </p> 
-[<img src ="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://amanjot.ml)
 
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanjot-singh-7b09b6220/) 
