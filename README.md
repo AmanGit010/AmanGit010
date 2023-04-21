@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanGit010" alt="amanGit010" /> </p> 
+[<img src ="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://amanjot.ml)
 
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanjot-singh-7b09b6220/) 
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/amans_twt)
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:amanjot3290@gmail.com)
 [<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/amanLeet01/)
-[<img src ="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://amanjot.ml)
 
 
 ###### Frameworks and Stack
