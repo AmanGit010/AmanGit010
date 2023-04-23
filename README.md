@@ -1,5 +1,8 @@
 <h1 align="center">Hey, I'm Amanjot Singh <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">App Developer </h2>
+My expertise in Flutter allows me to create highly efficient and visually appealing apps that deliver exceptional user experiences. I'm comfortable working with various third-party libraries and APIs to integrate advanced features such as real-time messaging, social media integration, etc.
+
+Feel free to check out some of my projects on GitHub, and don't hesitate to reach out if you'd like to collaborate on a project or have any questions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanGit010" alt="amanGit010" /> </p> 
 
 #### Connect with me on - 
